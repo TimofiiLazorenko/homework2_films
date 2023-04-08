@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">homework2(films)</string>
+    <string name="urlFilm1">https://static.wikia.nocookie.net/fastandfurious/images/a/aa/FF7_officialposter.jpg</string>
+    <string name="urlFilm2">https://i.otzovik.com/objects/b/2200000/2192140.png</string>
+    <string name="urlFilm3">https://upload.wikimedia.org/wikipedia/ru/e/e2/%D0%9E%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_-_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC_2022_-_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.png</string>
+    <string name="urlFilm4">https://upload.wikimedia.org/wikipedia/ru/6/6a/%D0%9A%D1%80%D0%B8%D0%BA_%282023%29.jpg</string>
+    <string name="urlFilm5">https://upload.wikimedia.org/wikipedia/ru/5/5c/Murder_Mystery_%28film%2C_2019%29.jpg</string>
+
+    <string name="fullDescFilm1">After receiving amnesty for their past crimes, Dominic, Brian and
+        the rest of their team return to the US to live normal lives while Deckard Shaw, a rogue UKSF and MI6
+        assassin seeking to avenge his comatose younger brother Owen Shaw, puts the team back in danger.</string>
+    <string name="fullDescFilm2">Tom, Darcy and their families gather for an ultimate destination wedding on a private
+        island in the Philippines. Just as the couple are away arguing about the wedding, their guests are taken hostage.
+        The pirates demand $45 million dollars from Darcys wealthy father Robert.</string>
+    <string name="fullDescFilm3">After a slave named Peter is whipped nearly to death, he escapes a Louisiana plantation by
+        outmaneuvering cold-blooded hunters and makes his way north, where he enlists in the Union Army.
+        The film is based on the true story of a runaway slave named Gordon.</string>
+    <string name="fullDescFilm4">New York, Halloween Eve. A year after the events in Woodsboro,
+        Blackmore University student Jason Carvey, disguised as Ghostface, brutally murders his professor,
+        Laura Crane, outside a bar. Together with his friend Greg, he is going to kill the sisters Sam and Tara Carpenter,
+        "finishing the Richie movie."</string>
+    <string name="fullDescFilm5">The main characters of the film are New York policeman Nick Spitz and his hairdresser wife Audrey.
+        In honor of the 15th wedding anniversary, the couple booked a tour of Europe. On the plane,
+        Audrey meets billionaire Charles Cavendish, who invites the couple to join a party on his family yacht.</string>
+
+</resources>
